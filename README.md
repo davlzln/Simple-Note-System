@@ -1,5 +1,2 @@
-# Sistemas-de-Notas-Simples
-Recebi um projeto para faculdade de realizar um sistema de notas simples, para cadastrar nota, falta e exibir se caso o aluno foi aprovado ou não
-Ele realiza a validação de login e senha e em seguida da às opções para realizar as ações. Gostaria que façam criticas contrutivas para melhor aprendizado
-Lembrando que é um código simples que foi solicitado pelo professor!
-Obrigado :)
+# Simple-Note-System
+I received a project for a college to carry out a simple grading system, to register grades, absences and display whether the student was approved or not. It performs login and password validation and then gives options to carry out actions. I would like you to make constructive criticism for better learning, remembering that it is a simple code that was requested by the teacher! Thanks :)
